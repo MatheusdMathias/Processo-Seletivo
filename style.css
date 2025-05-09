@@ -1,0 +1,12 @@
+processo-seletivo/
+├── src/
+│   └── br/
+│       └── com/
+│           └── seletivo/
+│               ├── Main.java
+│               ├── model/
+│               │   └── Pessoa.java
+│               ├── service/
+│               │   └── ProcessoSeletivo.java
+├── README.md
+└── .gitignore
